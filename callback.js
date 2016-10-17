@@ -26,4 +26,4 @@ switch (path) {
 
 
 }).listen(8899); 
-console.log("nodejs start listen 8899 port!");
+//console.log("nodejs start listen 8899 port!");
